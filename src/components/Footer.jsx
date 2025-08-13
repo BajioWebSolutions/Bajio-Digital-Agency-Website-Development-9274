@@ -28,16 +28,16 @@ const Footer = () => {
               innovative web solutions, strategic marketing, and cutting-edge technology.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-teal-400 transition-colors">
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-teal-400 transition-colors">
                 <SafeIcon icon={FiFacebook} className="w-5 h-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-teal-400 transition-colors">
+              <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-teal-400 transition-colors">
                 <SafeIcon icon={FiTwitter} className="w-5 h-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-teal-400 transition-colors">
+              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-teal-400 transition-colors">
                 <SafeIcon icon={FiLinkedin} className="w-5 h-5" />
               </a>
-              <a href="#" className="text-gray-400 hover:text-teal-400 transition-colors">
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-teal-400 transition-colors">
                 <SafeIcon icon={FiInstagram} className="w-5 h-5" />
               </a>
             </div>
